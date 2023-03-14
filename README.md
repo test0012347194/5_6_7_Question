@@ -58,7 +58,6 @@ flowchart TD
 
 # question no 6.
 ## 6.1. This deployment is currently not working properly, can you figure out why.
-6.1.1 
 1. wrong port in service. port shoud be 80, targetPort shoud be 8000
 ```yaml
 service
