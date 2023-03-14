@@ -1,0 +1,4 @@
+{"node_name": "node1", "status": "Ready", "node_cpu": "243637747n", "memory": "9927016Ki"}
+{"node_name": "node1", "status": "Ready", "node_cpu": "32423423n", "memory": "3244534Ki"}
+{"pod_cpu": "270906n", "pod_memory": "14228Ki", "pod_name": "pod1", "namespace": "name1"}
+{"pod_cpu": "637261n", "pod_memory": "37218Ki", "pod_name": "pod2", "namespace": "name2"}
